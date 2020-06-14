@@ -17,9 +17,9 @@ Caso não queira roda os testes
 
 A classe origianl encontra-se em **[br.com.softplan.exercicio1.GeradorObservacao]** [ir para classe](https://github.com/gtorre2/softplan_desafio_tecnico/blob/master/Desafio/src/main/java/br/com/softplan/exercicio1/GeradorObservacao.java)
 
-A classe de teste encontra-se em **br.com.softplan.exercicio1.GeradorObservacaoTest**, [ir para classe](https://github.com/gtorre2/softplan_desafio_tecnico/blob/master/Desafio/src/test/java/br/com/softplan/exercicio1/GeradorObservacaoTest.java)
+A classe de teste encontra-se em **[br.com.softplan.exercicio1.GeradorObservacaoTest]**, [ir para classe](https://github.com/gtorre2/softplan_desafio_tecnico/blob/master/Desafio/src/test/java/br/com/softplan/exercicio1/GeradorObservacaoTest.java)
 
-### Passos feitos na refatoração
+### Passos que foram feitos para refatoração da classe
 
 1. Retirar os comentários, código bom não precisa de comentários
 2. Melhorar o nome das variáveis e métodos, somente o publico não será mudado
