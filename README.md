@@ -1,4 +1,4 @@
-# softplan_desafio_tecnico
+# Softplan desafio técnico
 Repositório contendo os exercícios propostos
 
 # Requisitos
