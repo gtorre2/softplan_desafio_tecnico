@@ -36,6 +36,7 @@ A classe de teste encontra-se em **[br.com.softplan.exercicio1.GeradorObservacao
 
 # Resposta Exercício 2
 
-O exercício 2 bem com as clesses de teste encontram-se em
+O exercício 2 com as classes encontra-se em:
 **[https://github.com/gtorre2/softplan_desafio_tecnico/tree/master/Desafio/src/main/java/br/com/sienge]**
-
+As classes de teste encontram-se em:
+**[https://github.com/gtorre2/softplan_desafio_tecnico/tree/master/Desafio/src/test/java/br/com/softplan/sienge]**
