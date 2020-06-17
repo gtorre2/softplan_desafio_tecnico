@@ -33,3 +33,9 @@ A classe de teste encontra-se em **[br.com.softplan.exercicio1.GeradorObservacao
 10. Criar vários métodos com algumas lógicas do negócios
 11. Criar outro método para saber se o texto vai no singular ou plurar
 11. Rodar os testes
+
+# Resposta Exercício 2
+
+O exercício 2 bem com as clesses de teste encontram-se em **
+[https://github.com/gtorre2/softplan_desafio_tecnico/tree/master/Desafio/src/main/java/br/com/sienge]**
+
